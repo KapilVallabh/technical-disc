@@ -14,4 +14,4 @@ this is the notebook from [Colab](technical_discussion.ipynb)
 
 
 ## Image
-This is the [image](![Yercaud](https://github.com/user-attachments/assets/9c5e0241-3513-46e4-b3e9-d9fa50a872ff)) I stored
+ [image]![Yercaud](https://github.com/user-attachments/assets/9c5e0241-3513-46e4-b3e9-d9fa50a872ff)
