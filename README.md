@@ -1,2 +1,8 @@
 # technical-disc
-This is a deo repo around comunication
+This is a demo repository around testing communication
+
+## This is a second heading
+
+* One
+* Two
+* Three
