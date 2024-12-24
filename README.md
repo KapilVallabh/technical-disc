@@ -16,5 +16,5 @@ this is the notebook from [Colab](technical_discussion.ipynb)
 ## Image
  ![Yercaud](https://github.com/user-attachments/assets/9c5e0241-3513-46e4-b3e9-d9fa50a872ff)
 
-#This is from jupyter
+## This is from jupyter
 This is the [Jupyter File](practice_ex1.ipynb)
